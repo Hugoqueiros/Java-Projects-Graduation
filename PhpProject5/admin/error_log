@@ -1,0 +1,14 @@
+[30-Mar-2021 21:57:29 Europe/Lisbon] PHP Parse error:  syntax error, unexpected '?>' in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 1
+[30-Mar-2021 21:57:31 Europe/Lisbon] PHP Warning:  require(): Filename cannot be empty in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 1
+[30-Mar-2021 21:57:31 Europe/Lisbon] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 1
+[30-Mar-2021 23:16:44 Europe/Lisbon] PHP Warning:  require(): Filename cannot be empty in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 12
+[30-Mar-2021 23:16:44 Europe/Lisbon] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 12
+[31-Mar-2021 02:00:18 Europe/Lisbon] PHP Warning:  require(application/footer.php): failed to open stream: No such file or directory in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 231
+[31-Mar-2021 02:00:18 Europe/Lisbon] PHP Fatal error:  require(): Failed opening required 'application/footer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 231
+[31-Mar-2021 02:00:22 Europe/Lisbon] PHP Warning:  require(application/footer.php): failed to open stream: No such file or directory in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 231
+[31-Mar-2021 02:00:22 Europe/Lisbon] PHP Fatal error:  require(): Failed opening required 'application/footer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 231
+[01-Apr-2021 16:40:23 Europe/Lisbon] PHP Notice:  Undefined index: employee_name in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 5
+[01-Apr-2021 16:40:31 Europe/Lisbon] PHP Notice:  Undefined index: employee_name in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 5
+[01-Apr-2021 16:40:33 Europe/Lisbon] PHP Notice:  Undefined index: employee_name in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 5
+[01-Apr-2021 16:40:47 Europe/Lisbon] PHP Notice:  Undefined index: employee_name in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 5
+[01-Apr-2021 16:42:41 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/erp.jbr-projects.pt/admin/index.php on line 5

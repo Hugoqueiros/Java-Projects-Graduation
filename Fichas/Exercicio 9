@@ -1,0 +1,25 @@
+ant -f C:\\Users\\hugo-\\OneDrive\\Documentos\\NetBeansProjects\\Exercicio9 -Dnb.internal.action.name=run run
+init:
+Deleting: C:\Users\hugo-\OneDrive\Documentos\NetBeansProjects\Exercicio9\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\hugo-\OneDrive\Documentos\NetBeansProjects\Exercicio9\build\built-jar.properties
+Compiling 4 source files to C:\Users\hugo-\OneDrive\Documentos\NetBeansProjects\Exercicio9\build\classes
+compile:
+run:
+Insira uma frase: 
+OK
+Escolha uma das opções seguintes
+A-Inserir Aluno
+P-Inserir Professor
+A
+Nome: Pedro Martins
+Genero: M
+Idade: 15
+Numero do Aluno: 23
+Turma: A
+OK
+e sou um aluno.
+Insira o nome pretendido: Hugo
+Género:M
+Idade: 19
+BUILD SUCCESSFUL (total time: 27 seconds)

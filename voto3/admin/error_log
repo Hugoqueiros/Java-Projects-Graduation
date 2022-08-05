@@ -1,0 +1,22 @@
+[31-Mar-2021 15:45:45 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 21
+[31-Mar-2021 15:55:58 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 21
+[31-Mar-2021 16:05:55 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 21
+[31-Mar-2021 16:25:50 Europe/Lisbon] PHP Warning:  require(): Filename cannot be empty in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 3
+[31-Mar-2021 16:25:50 Europe/Lisbon] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 3
+[31-Mar-2021 16:30:49 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 5
+[31-Mar-2021 16:30:52 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 5
+[31-Mar-2021 16:30:53 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 5
+[31-Mar-2021 16:30:54 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 5
+[31-Mar-2021 16:30:54 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 5
+[31-Mar-2021 16:30:54 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 5
+[31-Mar-2021 16:30:54 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 5
+[31-Mar-2021 16:30:54 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 5
+[31-Mar-2021 16:32:48 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 4
+[31-Mar-2021 16:32:53 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 4
+[31-Mar-2021 16:32:55 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 4
+[31-Mar-2021 16:35:19 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 4
+[31-Mar-2021 16:35:37 Europe/Lisbon] PHP Notice:  Undefined index: add_user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/admin.php on line 51
+[31-Mar-2021 16:35:37 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/admin.php on line 58
+[31-Mar-2021 16:39:22 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 4
+[31-Mar-2021 16:40:47 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 4
+[31-Mar-2021 16:41:03 Europe/Lisbon] PHP Notice:  Undefined index: admin_name in /home/jbrproje/voto-eletronico.jbr-projects.pt/admin/index.php on line 4

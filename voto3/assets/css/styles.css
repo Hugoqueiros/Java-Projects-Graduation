@@ -1,0 +1,7 @@
+#nmr_nif, #nmr_nmra, #pw, #div_add_user_nif, #div_add_user_nmra{
+    display: none;
+}
+
+.helper-error{
+    color:red;
+}

@@ -123,3 +123,23 @@ public class Teste20Alunos {
     }
 
 }
+
+                case 2:
+                    if (gerar_numeros == true) {
+                        for (int i = 0; i < numero_aleatorio.length; i++) {
+                            for (int j = i + 1; j < numero_aleatorio.length; j++) {
+                                if (numero_aleatorio[i] > numero_aleatorio[j]) {
+                                    int z = numero_aleatorio[i];
+                                    numero_aleatorio[i] = numero_aleatorio[j];
+                                    numero_aleatorio[j] = z;
+
+                                }
+                            }
+                            System.out.println("Números Ordenados: " + numero_aleatorio[i]);
+                        }
+                        ordem = true;
+                    } else {
+                        System.out.println("\nNECESSITA DE GERAR NÚMEROS ALEATÓRIOS PARA REALIZAR ESTA OPERAÇÃO\n");
+                    }
+
+                    break;

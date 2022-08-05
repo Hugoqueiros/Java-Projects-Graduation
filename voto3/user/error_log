@@ -1,0 +1,20 @@
+[31-Mar-2021 16:36:38 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:36:38 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:36:38 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[31-Mar-2021 16:36:54 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:36:54 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:36:54 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[31-Mar-2021 16:37:17 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:37:17 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:37:17 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[31-Mar-2021 16:38:07 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:38:07 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:38:07 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[31-Mar-2021 16:38:10 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:38:10 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:38:10 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[31-Mar-2021 16:38:24 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 105
+[31-Mar-2021 16:38:38 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:38:38 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[31-Mar-2021 16:38:38 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[31-Mar-2021 16:39:02 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 111

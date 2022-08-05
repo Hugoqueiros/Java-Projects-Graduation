@@ -1,0 +1,6 @@
+[30-Mar-2021 21:53:26 Europe/Lisbon] PHP Warning:  require(): Filename cannot be empty in /home/jbrproje/erp.jbr-projects.pt/index.php on line 2
+[30-Mar-2021 21:53:26 Europe/Lisbon] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/erp.jbr-projects.pt/index.php on line 2
+[30-Mar-2021 21:53:27 Europe/Lisbon] PHP Warning:  require(): Filename cannot be empty in /home/jbrproje/erp.jbr-projects.pt/index.php on line 3
+[30-Mar-2021 21:53:27 Europe/Lisbon] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/erp.jbr-projects.pt/index.php on line 3
+[31-Mar-2021 01:56:36 Europe/Lisbon] PHP Warning:  require(../application/header.php): failed to open stream: No such file or directory in /home/jbrproje/erp.jbr-projects.pt/login.php on line 1
+[31-Mar-2021 01:56:36 Europe/Lisbon] PHP Fatal error:  require(): Failed opening required '../application/header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/erp.jbr-projects.pt/login.php on line 1

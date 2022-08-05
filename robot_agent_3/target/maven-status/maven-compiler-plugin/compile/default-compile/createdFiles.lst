@@ -1,0 +1,6 @@
+com\mycompany\robot_agent\Main.class
+com\mycompany\robot_agent\Robot.class
+com\mycompany\robot_agent\Storage.class
+com\mycompany\robot_agent\Obstacle.class
+com\mycompany\robot_agent\Box.class
+com\mycompany\robot_agent\Factory.class

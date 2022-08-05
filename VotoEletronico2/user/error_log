@@ -1,0 +1,177 @@
+[26-Mar-2021 15:01:38 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:01:38 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:01:38 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:01:38 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:01:38 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:01:38 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:11:23 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:23 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:23 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:11:23 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:23 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:23 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:11:29 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:29 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:29 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:11:29 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:29 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:29 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:11:42 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:42 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:42 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:11:42 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:42 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:42 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:11:44 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:44 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:44 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:11:44 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:44 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:44 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:11:46 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:46 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:11:46 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:11:46 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:46 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:11:46 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:12:19 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:12:19 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:12:19 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:12:19 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:12:19 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:12:19 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:12:22 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:12:22 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:12:22 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:12:22 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:12:22 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:12:22 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:13:04 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:13:04 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:13:04 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:13:04 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:13:04 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:13:04 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:13:10 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:13:10 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:13:10 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:14:37 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:14:37 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:14:37 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:14:37 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:14:37 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:14:37 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:16:22 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:16:22 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:16:22 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 15:16:22 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:16:22 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:16:22 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:18:58 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:18:58 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:18:58 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:19:12 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:19:12 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:19:12 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:19:57 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:19:57 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:19:57 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 15:19:57 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:19:57 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:19:57 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:22:25 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:22:25 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:22:25 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:28:08 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:28:08 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:28:08 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:28:40 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:28:40 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:28:40 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:32:37 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:32:37 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:32:37 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:32:37 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:32:37 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:32:37 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:32:50 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:32:50 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:32:50 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 15:32:50 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:32:50 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:32:50 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:32:56 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:32:56 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:32:56 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:32:56 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:32:56 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:32:56 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:33:07 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:33:07 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:33:07 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:33:16 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:33:16 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:33:16 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:33:16 Europe/Lisbon] PHP Notice:  Undefined variable: query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:33:16 Europe/Lisbon] PHP Warning:  mysqli_query(): Empty query in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 40
+[26-Mar-2021 15:33:16 Europe/Lisbon] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 41
+[26-Mar-2021 15:33:50 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:33:50 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:33:50 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:34:44 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:34:44 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:34:44 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:34:55 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:34:55 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:34:55 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:37:42 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:37:42 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:37:42 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:42:09 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:42:09 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:42:09 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 15:44:50 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:44:50 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:44:50 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 15:53:22 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:53:22 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:53:22 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:53:33 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:53:33 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:53:33 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:54:14 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:54:14 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:54:14 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:56:32 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:56:32 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:56:32 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 15:58:43 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:58:43 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 15:58:43 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 16:00:11 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:00:11 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:00:11 Europe/Lisbon] PHP Notice:  Undefined index: user_nmra in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 28
+[26-Mar-2021 16:02:24 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:02:24 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:02:24 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 16:03:23 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:03:23 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:03:23 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 16:03:36 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:03:36 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:03:36 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 16:04:49 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:04:49 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:04:49 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 16:04:58 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 111
+[26-Mar-2021 16:05:15 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:05:15 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 16:05:15 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 16:05:36 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 111
+[26-Mar-2021 17:27:19 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 17:27:19 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 17:27:19 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 17:27:59 Europe/Lisbon] PHP Warning:  include(PHPMailer-5.2-stable/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 17:27:59 Europe/Lisbon] PHP Warning:  include(): Failed opening 'PHPMailer-5.2-stable/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 15
+[26-Mar-2021 17:27:59 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 34
+[26-Mar-2021 17:28:23 Europe/Lisbon] PHP Notice:  Undefined index: user_nif in /home/jbrproje/voto-eletronico.jbr-projects.pt/user/user.php on line 111
